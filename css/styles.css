@@ -1,0 +1,41 @@
+.pasta {
+    font-size: 40px;
+    font-weight: 800;
+    color: orange;
+    font-family: "Arial", sans-serif;
+}
+
+.ingredients.pasta {
+    background-color: aqua;
+    font-size: 15px;
+    color: black;
+}
+
+.steps#for-pasta {
+    font-family: "Georgia", serif;
+    font-weight: 1000;
+    color: orange;
+}
+
+#burger-description {
+    color: red;
+    font-family: "Georgia", sans-serif;
+}
+
+.ingredients .egg {
+    font-weight: 800;
+    color: green;
+}
+
+.ingredients.burger {
+    color: brown;
+    font-family: "Courier New", sans-serif;
+    font-size: 20px;
+}
+
+.ingredients.kharcho,
+.steps.kharcho {
+    color: blueviolet;
+    font-family: "Brush Script MT", monospace;
+    background-color: blanchedalmond;
+}
